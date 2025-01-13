@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Matt
-# We listen and we don't judge, and I don't want to maintain a website so I keep stuff here on GitHub
+We listen, and we don't judge, and I don't want to maintain a website, so I keep stuff here on GitHub.
 
 <!--
 **matthaul/matthaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
